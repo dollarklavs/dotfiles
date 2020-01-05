@@ -1,9 +1,10 @@
 set nocompatible              " required
 set undodir=~/.vim/undodir
 set undofile
+set cursorline
 " filetype off                  " required
 
-let g:ycm_python_binary_path = 'python'
+let g:ycm_python_binary_path = 'python3'
 
 
 
@@ -12,6 +13,7 @@ Plug 'tmhedberg/SimpylFold'
 Plug 'vim-scripts/indentpython.vim'
 " Plugin 'Valloric/YouCompleteMe'
 Plug 'vim-syntastic/syntastic'
+Plug 'lucasprag/simpleblack'
 Plug 'rust-lang/rust.vim'
 Plug 'nvie/vim-flake8'
 Plug 'jnurmine/Zenburn'
