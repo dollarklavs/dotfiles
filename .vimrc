@@ -1,17 +1,17 @@
 set nocompatible              " required
 set undodir=~/.vim/undodir
 set undofile
-set cursorline
 " filetype off                  " required
 
-let g:ycm_python_binary_path = 'python3'
-
+" let g:ycm_python_binary_path = 'python3'
+set nofoldenable    " disable folding
 
 
 call plug#begin('~/.vim/plugged')
 Plug 'tmhedberg/SimpylFold'
 Plug 'vim-scripts/indentpython.vim'
-" Plugin 'Valloric/YouCompleteMe'
+Plug 'tpope/vim-surround'
+" Plug 'Valloric/YouCompleteMe'
 Plug 'vim-syntastic/syntastic'
 Plug 'lucasprag/simpleblack'
 Plug 'rust-lang/rust.vim'
@@ -36,6 +36,11 @@ call plug#end()
 set foldmethod=indent
 
 set nu
+colorscheme simpleblack
+set cursorline
+syntax on
+set t_Co=256
+set termguicolors 
 
 " Enable folding with the spacebar
 nnoremap <space> za
@@ -62,10 +67,6 @@ let g:ycm_autoclose_preview_window_after_completion=1
 map <leader>g  :YcmCompleter GoToDefinitionElseDeclaration<CR>
 
 let python_highlight_all=1
-syntax on
-colorscheme simpleblack
-set t_Co=256
-set termguicolors 
 " python with virtualenv support
 " py << EOF
 " import os
