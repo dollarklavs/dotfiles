@@ -7,6 +7,7 @@ ln -s /Users/$USER/dotfiles/.tmux.conf /Users/$USER/.tmux.conf
 brew install python3
 brew install neovim
 pip3 install --user --upgrade neovim
+pip3 install --user git+git://github.com/Lokaltog/powerline
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 mkdir -p /Users/$USER/.config/nvim

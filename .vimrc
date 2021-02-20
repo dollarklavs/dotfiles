@@ -18,6 +18,10 @@ Plug 'rust-lang/rust.vim'
 Plug 'nvie/vim-flake8'
 Plug 'jnurmine/Zenburn'
 Plug 'scrooloose/nerdtree'
+Plug 'tweekmonster/django-plus.vim'
+Plug 'tpope/vim-surround'
+Plug 'brooth/far.vim'
+Plug 'mjbrownie/django-template-textobjects'
 if has('nvim')
   Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 else
@@ -53,6 +57,8 @@ au BufNewFile,BufRead *.py
 " Flagging Unnecessary Whitespace
 highlight BadWhitespace ctermbg=red guibg=darkred
 au BufRead,BufNewFile *.py,*.pyw,*.c,*.h match BadWhitespace /\s\+$/
+" au BufNewFile,BufRead *.html set filetype=htmldjango
+
 
 set encoding=utf-8
 
@@ -66,6 +72,7 @@ syntax on
 colorscheme simpleblack
 set t_Co=256
 set termguicolors 
+set mouse=nicr
 " python with virtualenv support
 " py << EOF
 " import os
