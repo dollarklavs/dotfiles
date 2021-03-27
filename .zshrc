@@ -99,3 +99,4 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 source $HOME/.zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+export NPM_TOKEN=70bc28bcfef7133430ee7fa01c8afb301788b6d7
