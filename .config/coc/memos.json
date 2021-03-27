@@ -1,0 +1,1323 @@
+{
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/usr/local/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.2-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.2-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "a9a06c9bf80c8d44f5f0078d99fb141143aa0cf0d306af933aa17217f0efe98eb0f5768603478ce70e48d32626c4d2aa76f398477a944b8001033bc170bf5116"
+      },
+      "expiry": 1616839014396
+    },
+    "/usr/local/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.6/Frameworks/Python.framework/Versions/3.8",
+        "fileHash": "5f4597c2b38047e004a7ba8e13487b6ab740929e672ba69ea81aaec2325f46602b38581a5e0bea944d9f61337ce5646abe53f2575b065dcf2c2740082501dd9d"
+      },
+      "expiry": 1604738628817
+    },
+    "/usr/local/opt/python@3.8/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/opt/python@3.8/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.8-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.8-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.8/Frameworks/Python.framework/Versions/3.8",
+        "fileHash": "3b65717241000b1f000390566dd127ae09a11787da7219f3b478b9f8b1b180a0a043647e0e3d90ef73df0b1429dcbd6cf5802d123a7a8872e8f71813297d49ea"
+      },
+      "expiry": 1614867295422
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.2-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.2-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "a9a06c9bf80c8d44f5f0078d99fb141143aa0cf0d306af933aa17217f0efe98eb0f5768603478ce70e48d32626c4d2aa76f398477a944b8001033bc170bf5116",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/jonas/.local/share/virtualenvs/mithjem-fixer-rDUjSiot/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.8-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.8-final"
+        },
+        "sysPrefix": "/Users/jonas/.local/share/virtualenvs/mithjem-fixer-rDUjSiot",
+        "fileHash": "a82af9617edbfe3fd598f25de6accdb44bdd3469ed098f5e09ad438ec2cf39a2456c385efe440aacb71dcead1e4a48488b11426ff39eabd53c01147fc1f32cb9",
+        "type": "Unknown"
+      }
+    ],
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.2-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.2-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2"
+      },
+      "expiry": 1616839014481
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.2-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.2-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "a9a06c9bf80c8d44f5f0078d99fb141143aa0cf0d306af933aa17217f0efe98eb0f5768603478ce70e48d32626c4d2aa76f398477a944b8001033bc170bf5116",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.2-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.2-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "d266d12c4a831301b2d6ec30f233e23f519db8f563a0b7369ec52b45f12903283ca3ce9a8612b8743918a3b97b23f6d2c6e0f6e722a728197a398da914afc0bd",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.2-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.2-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.2-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.2-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "a9a06c9bf80c8d44f5f0078d99fb141143aa0cf0d306af933aa17217f0efe98eb0f5768603478ce70e48d32626c4d2aa76f398477a944b8001033bc170bf5116",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.2-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.2-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "d266d12c4a831301b2d6ec30f233e23f519db8f563a0b7369ec52b45f12903283ca3ce9a8612b8743918a3b97b23f6d2c6e0f6e722a728197a398da914afc0bd",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.2-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.2-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2",
+        "type": "Unknown"
+      }
+    ],
+    "/Users/jonas/.local/share/virtualenvs/mithjem-89hdEMlM/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/jonas/.local/share/virtualenvs/mithjem-89hdEMlM/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.8-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.8-final"
+        },
+        "sysPrefix": "/Users/jonas/.local/share/virtualenvs/mithjem-89hdEMlM",
+        "fileHash": "ab3a6ebc3ae0e7f776804d8ced636226dd9cc7293f4bb402ba66cbd91385f867a4417df362d65f48e543ac032646c9b39e82d0bc1240212789d36bb2d7c665b9"
+      },
+      "expiry": 1616748199741
+    },
+    "PipEnvInformation": [
+      {
+        "pythonPath": "/Users/jonas/.local/share/virtualenvs/bolighed-import-service-s51TuDUo/bin/python",
+        "workspaceFolder": "/Users/jonas/mithjem/bolighed-import-service",
+        "envName": "bolighed-import-service"
+      },
+      {
+        "pythonPath": "/Users/jonas/.local/share/virtualenvs/mithjem-fixer-rDUjSiot/bin/python",
+        "workspaceFolder": "/Users/jonas/mithjem/mithjem-fixer",
+        "envName": "mithjem-fixer"
+      },
+      {
+        "pythonPath": "/Users/jonas/.local/share/virtualenvs/mithjem-89hdEMlM/bin/python",
+        "workspaceFolder": "/Users/jonas/mithjem/mithjem",
+        "envName": "mithjem"
+      }
+    ],
+    "/Users/jonas/.local/share/virtualenvs/mithjem-89hdEMlM/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.8 64-bit ('mithjem': venv)",
+        "hash": "ab3a6ebc3ae0e7f776804d8ced636226dd9cc7293f4bb402ba66cbd91385f867a4417df362d65f48e543ac032646c9b39e82d0bc1240212789d36bb2d7c665b9-1b69fe7b548ca5a59bc96858648720ea"
+      },
+      "expiry": 1616748202507
+    },
+    "/usr/local/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.2 64-bit",
+        "hash": "a9a06c9bf80c8d44f5f0078d99fb141143aa0cf0d306af933aa17217f0efe98eb0f5768603478ce70e48d32626c4d2aa76f398477a944b8001033bc170bf5116-cfd1a7c52602ea4bbe36f0abccfabd38"
+      },
+      "expiry": 1616835115271
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.2 64-bit",
+        "hash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2-4bc3c9f5346452a4fe404c621ebcd443"
+      },
+      "expiry": 1616835115277
+    },
+    "/usr/local/opt/python@3.8/bin/python3.8.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.8 64-bit",
+        "hash": "3b65717241000b1f000390566dd127ae09a11787da7219f3b478b9f8b1b180a0a043647e0e3d90ef73df0b1429dcbd6cf5802d123a7a8872e8f71813297d49ea-9eb66a2e49a0678858dee74cf56e0375"
+      },
+      "expiry": 1614867295421
+    },
+    "InterpreterAutoSeletionRule-workspaceEnvs": {
+      "architecture": 3,
+      "path": "/Users/jonas/.local/share/virtualenvs/mithjem-89hdEMlM/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.8-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 8,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.8-final"
+      },
+      "sysPrefix": "/Users/jonas/.local/share/virtualenvs/mithjem-89hdEMlM",
+      "fileHash": "ab3a6ebc3ae0e7f776804d8ced636226dd9cc7293f4bb402ba66cbd91385f867a4417df362d65f48e543ac032646c9b39e82d0bc1240212789d36bb2d7c665b9",
+      "type": "PipEnv",
+      "pipEnvWorkspaceFolder": "/Users/jonas/mithjem/mithjem"
+    },
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.2-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.2-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "a9a06c9bf80c8d44f5f0078d99fb141143aa0cf0d306af933aa17217f0efe98eb0f5768603478ce70e48d32626c4d2aa76f398477a944b8001033bc170bf5116",
+      "type": "Unknown"
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.2-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.2-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "a9a06c9bf80c8d44f5f0078d99fb141143aa0cf0d306af933aa17217f0efe98eb0f5768603478ce70e48d32626c4d2aa76f398477a944b8001033bc170bf5116",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.9.2 64-bit"
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.2-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.2-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "a9a06c9bf80c8d44f5f0078d99fb141143aa0cf0d306af933aa17217f0efe98eb0f5768603478ce70e48d32626c4d2aa76f398477a944b8001033bc170bf5116",
+      "type": "Unknown",
+      "displayName": "Python 3.9.2 64-bit"
+    },
+    "/Users/jonas/.local/share/virtualenvs/mithjem-89hdEMlM/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "ab3a6ebc3ae0e7f776804d8ced636226dd9cc7293f4bb402ba66cbd91385f867a4417df362d65f48e543ac032646c9b39e82d0bc1240212789d36bb2d7c665b9",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/jonas/.local/share/virtualenvs/mithjem-89hdEMlM/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.8-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 8,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.8-final"
+          },
+          "sysPrefix": "/Users/jonas/.local/share/virtualenvs/mithjem-89hdEMlM",
+          "fileHash": "ab3a6ebc3ae0e7f776804d8ced636226dd9cc7293f4bb402ba66cbd91385f867a4417df362d65f48e543ac032646c9b39e82d0bc1240212789d36bb2d7c665b9",
+          "type": "PipEnv",
+          "pipEnvWorkspaceFolder": "/Users/jonas/mithjem/mithjem",
+          "cachedEntry": true,
+          "envName": "mithjem",
+          "displayName": "Python 3.8.8 64-bit ('mithjem': pipenv)",
+          "__store": true
+        }
+      },
+      "expiry": 1616748201285
+    },
+    "/usr/local/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "a9a06c9bf80c8d44f5f0078d99fb141143aa0cf0d306af933aa17217f0efe98eb0f5768603478ce70e48d32626c4d2aa76f398477a944b8001033bc170bf5116",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.2-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.2-final"
+          },
+          "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2/Frameworks/Python.framework/Versions/3.9",
+          "fileHash": "a9a06c9bf80c8d44f5f0078d99fb141143aa0cf0d306af933aa17217f0efe98eb0f5768603478ce70e48d32626c4d2aa76f398477a944b8001033bc170bf5116",
+          "type": "Unknown",
+          "displayName": "Python 3.9.2 64-bit"
+        }
+      },
+      "expiry": 1616835115291
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.2-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.2-final"
+          },
+          "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+          "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2",
+          "type": "Unknown",
+          "displayName": "Python 3.8.2 64-bit"
+        }
+      },
+      "expiry": 1616835115297
+    },
+    "/usr/local/opt/python@3.8/bin/python3.8.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "3b65717241000b1f000390566dd127ae09a11787da7219f3b478b9f8b1b180a0a043647e0e3d90ef73df0b1429dcbd6cf5802d123a7a8872e8f71813297d49ea"
+      },
+      "expiry": 1614867295348
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.2-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.2-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "a9a06c9bf80c8d44f5f0078d99fb141143aa0cf0d306af933aa17217f0efe98eb0f5768603478ce70e48d32626c4d2aa76f398477a944b8001033bc170bf5116",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.9.2 64-bit"
+    },
+    "ProposeLSBanner": false,
+    "/Users/jonas/.local/share/virtualenvs/mithjem-fixer-rDUjSiot/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/jonas/.local/share/virtualenvs/mithjem-fixer-rDUjSiot/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.8-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.8-final"
+        },
+        "sysPrefix": "/Users/jonas/.local/share/virtualenvs/mithjem-fixer-rDUjSiot",
+        "fileHash": "a82af9617edbfe3fd598f25de6accdb44bdd3469ed098f5e09ad438ec2cf39a2456c385efe440aacb71dcead1e4a48488b11426ff39eabd53c01147fc1f32cb9"
+      },
+      "expiry": 1616839014395
+    },
+    "/Users/jonas/.local/share/virtualenvs/mithjem-fixer-rDUjSiot/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.8 64-bit ('mithjem-fixer': pipenv)",
+        "hash": "a82af9617edbfe3fd598f25de6accdb44bdd3469ed098f5e09ad438ec2cf39a2456c385efe440aacb71dcead1e4a48488b11426ff39eabd53c01147fc1f32cb9-d924036b625635cc48dd121002e2ae27"
+      },
+      "expiry": 1616840376428
+    },
+    "/Users/jonas/.local/share/virtualenvs/mithjem-fixer-rDUjSiot/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "a82af9617edbfe3fd598f25de6accdb44bdd3469ed098f5e09ad438ec2cf39a2456c385efe440aacb71dcead1e4a48488b11426ff39eabd53c01147fc1f32cb9",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/jonas/.local/share/virtualenvs/mithjem-fixer-rDUjSiot/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.8-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 8,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.8-final"
+          },
+          "sysPrefix": "/Users/jonas/.local/share/virtualenvs/mithjem-fixer-rDUjSiot",
+          "fileHash": "a82af9617edbfe3fd598f25de6accdb44bdd3469ed098f5e09ad438ec2cf39a2456c385efe440aacb71dcead1e4a48488b11426ff39eabd53c01147fc1f32cb9",
+          "type": "PipEnv",
+          "pipEnvWorkspaceFolder": "/Users/jonas/mithjem/mithjem-fixer",
+          "envName": "mithjem-fixer",
+          "displayName": "Python 3.8.8 64-bit ('mithjem-fixer': pipenv)"
+        }
+      },
+      "expiry": 1616840376440
+    },
+    "/Users/jonas/.local/share/virtualenvs/bolighed-import-service-s51TuDUo/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/jonas/.local/share/virtualenvs/bolighed-import-service-s51TuDUo/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/Users/jonas/.local/share/virtualenvs/bolighed-import-service-s51TuDUo",
+        "fileHash": "f466bf2daf49c2abcbb83a511008ac7fcaa7047b0ae51a945d91d9804b1e6b4abc5582224c652dd52e2affe8c83e95d1d818fc0cf1957f59c8ef841399ed33ba"
+      },
+      "expiry": 1604522714266
+    },
+    "/Users/jonas/.local/share/virtualenvs/bolighed-import-service-s51TuDUo/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.6 64-bit ('bolighed-import-service': pipenv)",
+        "hash": "f466bf2daf49c2abcbb83a511008ac7fcaa7047b0ae51a945d91d9804b1e6b4abc5582224c652dd52e2affe8c83e95d1d818fc0cf1957f59c8ef841399ed33ba-51b49ba2cb931baa6a7c02924c8aed3b"
+      },
+      "expiry": 1604523126881
+    },
+    "/Users/jonas/.local/share/virtualenvs/bolighed-import-service-s51TuDUo/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "f466bf2daf49c2abcbb83a511008ac7fcaa7047b0ae51a945d91d9804b1e6b4abc5582224c652dd52e2affe8c83e95d1d818fc0cf1957f59c8ef841399ed33ba",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/jonas/.local/share/virtualenvs/bolighed-import-service-s51TuDUo/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.6-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.6-final"
+          },
+          "sysPrefix": "/Users/jonas/.local/share/virtualenvs/bolighed-import-service-s51TuDUo",
+          "fileHash": "f466bf2daf49c2abcbb83a511008ac7fcaa7047b0ae51a945d91d9804b1e6b4abc5582224c652dd52e2affe8c83e95d1d818fc0cf1957f59c8ef841399ed33ba",
+          "type": "PipEnv",
+          "pipEnvWorkspaceFolder": "/Users/jonas/mithjem/bolighed-import-service",
+          "envName": "bolighed-import-service",
+          "displayName": "Python 3.8.6 64-bit ('bolighed-import-service': pipenv)"
+        }
+      },
+      "expiry": 1604523126900
+    },
+    "/usr/local/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.2-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.2-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "d266d12c4a831301b2d6ec30f233e23f519db8f563a0b7369ec52b45f12903283ca3ce9a8612b8743918a3b97b23f6d2c6e0f6e722a728197a398da914afc0bd"
+      },
+      "expiry": 1616839014398
+    },
+    "/Users/jonas/Library/Caches/pypoetry/virtualenvs/dashboard-ei503VFi-py3.9/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/jonas/Library/Caches/pypoetry/virtualenvs/dashboard-ei503VFi-py3.9/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/jonas/Library/Caches/pypoetry/virtualenvs/dashboard-ei503VFi-py3.9",
+        "fileHash": "676221a89632907bd0824a96ca13239a6e2d3943da9350bf1df575e84d4f99eee9c3b1b8c810f9c8345f29d86660f68b0d9c97951361b9c655e31b96b5dc20f0"
+      },
+      "expiry": 1614082789649
+    },
+    "/Users/jonas/Library/Caches/pypoetry/virtualenvs/dashboard-ei503VFi-py3.9/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/jonas/Library/Caches/pypoetry/virtualenvs/dashboard-ei503VFi-py3.9/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/jonas/Library/Caches/pypoetry/virtualenvs/dashboard-ei503VFi-py3.9",
+        "fileHash": "17345273ae9d0bee96a56f6a56bd618cf8d1fbc303c222b7aef78e62ced11d78328e03c0bbe0308cf4809cc93a1023a2b7ee90282b95103c1a7d2204331d8c69"
+      },
+      "expiry": 1614082789684
+    },
+    "/Users/jonas/Library/Caches/pypoetry/virtualenvs/dashboard-ei503VFi-py3.9/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/jonas/Library/Caches/pypoetry/virtualenvs/dashboard-ei503VFi-py3.9/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/jonas/Library/Caches/pypoetry/virtualenvs/dashboard-ei503VFi-py3.9",
+        "fileHash": "873a69b514543298945143c4ed8c20c98ae13233801362ee64db7d14bc7eb97e156eecfaafc4a1a155fecfd7957e17236f4fc5d716bcb960026170ec9d1ee9da"
+      },
+      "expiry": 1614082789687
+    },
+    "/Users/jonas/Library/Caches/pypoetry/virtualenvs/dashboard-ei503VFi-py3.9/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit",
+        "hash": "676221a89632907bd0824a96ca13239a6e2d3943da9350bf1df575e84d4f99eee9c3b1b8c810f9c8345f29d86660f68b0d9c97951361b9c655e31b96b5dc20f0-a0943af9b17a2c69917fb09539930b26"
+      },
+      "expiry": 1614247170119
+    },
+    "/Users/jonas/Library/Caches/pypoetry/virtualenvs/dashboard-ei503VFi-py3.9/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "676221a89632907bd0824a96ca13239a6e2d3943da9350bf1df575e84d4f99eee9c3b1b8c810f9c8345f29d86660f68b0d9c97951361b9c655e31b96b5dc20f0",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/jonas/Library/Caches/pypoetry/virtualenvs/dashboard-ei503VFi-py3.9/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.1-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.1-final"
+          },
+          "sysPrefix": "/Users/jonas/Library/Caches/pypoetry/virtualenvs/dashboard-ei503VFi-py3.9",
+          "fileHash": "676221a89632907bd0824a96ca13239a6e2d3943da9350bf1df575e84d4f99eee9c3b1b8c810f9c8345f29d86660f68b0d9c97951361b9c655e31b96b5dc20f0",
+          "type": "Unknown",
+          "displayName": "Python 3.9.1 64-bit"
+        }
+      },
+      "expiry": 1614082789892
+    }
+  },
+  "coc-python|/Users/jonas/mithjem/mithjem": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:c70b169cc8b8354cceb0e9ea5da7152d": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:c70b169cc8b8354cceb0e9ea5da7152d": [
+      {
+        "architecture": 3,
+        "path": "/Users/jonas/.local/share/virtualenvs/mithjem-89hdEMlM/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.8-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.8-final"
+        },
+        "sysPrefix": "/Users/jonas/.local/share/virtualenvs/mithjem-89hdEMlM",
+        "fileHash": "ab3a6ebc3ae0e7f776804d8ced636226dd9cc7293f4bb402ba66cbd91385f867a4417df362d65f48e543ac032646c9b39e82d0bc1240212789d36bb2d7c665b9",
+        "type": "PipEnv",
+        "pipEnvWorkspaceFolder": "/Users/jonas/mithjem/mithjem"
+      }
+    ],
+    "SelectedPythonPath": "/Users/jonas/.local/share/virtualenvs/mithjem-89hdEMlM/bin/python",
+    "autoSelectedWorkspacePythonInterpreter-/Users/jonas/mithjem/mithjem": {
+      "architecture": 3,
+      "path": "/Users/jonas/.local/share/virtualenvs/mithjem-89hdEMlM/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.8-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 8,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.8-final"
+      },
+      "sysPrefix": "/Users/jonas/.local/share/virtualenvs/mithjem-89hdEMlM",
+      "fileHash": "ab3a6ebc3ae0e7f776804d8ced636226dd9cc7293f4bb402ba66cbd91385f867a4417df362d65f48e543ac032646c9b39e82d0bc1240212789d36bb2d7c665b9",
+      "type": "PipEnv",
+      "pipEnvWorkspaceFolder": "/Users/jonas/mithjem/mithjem"
+    },
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/jonas/.local/share/virtualenvs/mithjem-89hdEMlM/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.8-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.8-final"
+        },
+        "sysPrefix": "/Users/jonas/.local/share/virtualenvs/mithjem-89hdEMlM",
+        "fileHash": "ab3a6ebc3ae0e7f776804d8ced636226dd9cc7293f4bb402ba66cbd91385f867a4417df362d65f48e543ac032646c9b39e82d0bc1240212789d36bb2d7c665b9",
+        "type": "PipEnv",
+        "pipEnvWorkspaceFolder": "/Users/jonas/mithjem/mithjem"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_PipEnvService:539efba18f2298851820739602ecf943": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:539efba18f2298851820739602ecf943": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:70517e0bb90d828f3045cb2817aa6d10": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:70517e0bb90d828f3045cb2817aa6d10": []
+  },
+  "coc-python|/Users/jonas/bolighed/bolighed-import-service": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:78eeaafb8c194af93101658a6c2ec1af": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:78eeaafb8c194af93101658a6c2ec1af": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/jonas/bolighed/bolighed-import-service": {
+      "architecture": 3,
+      "path": "/usr/local/opt/python@3.8/bin/python3.8",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.5-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.5-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.5/Frameworks/Python.framework/Versions/3.8",
+      "fileHash": "19bf144dcdb40deef421f95d7b08fb2feab29d74468b45b8c072178072f3f304f9fe08f03b369f30b09dc07836f75664446d9dcb05980810a3e97272014eacef",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/jonas/bolighed/bolighed-django": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:8497f8fc102bffbbe1d9951a8affaf6e": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:8497f8fc102bffbbe1d9951a8affaf6e": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/jonas/bolighed/bolighed-django": {
+      "architecture": 3,
+      "path": "/usr/local/opt/python@3.8/bin/python3.8",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.5-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.5-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.5/Frameworks/Python.framework/Versions/3.8",
+      "fileHash": "19bf144dcdb40deef421f95d7b08fb2feab29d74468b45b8c072178072f3f304f9fe08f03b369f30b09dc07836f75664446d9dcb05980810a3e97272014eacef",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/jonas/mithjem/mithjem-fixer": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d015300bfbe5539508c88c9a10c22ac0": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:d015300bfbe5539508c88c9a10c22ac0": [
+      {
+        "architecture": 3,
+        "path": "/Users/jonas/.local/share/virtualenvs/mithjem-fixer-rDUjSiot/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.7-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.7-final"
+        },
+        "sysPrefix": "/Users/jonas/.local/share/virtualenvs/mithjem-fixer-rDUjSiot",
+        "fileHash": "a82af9617edbfe3fd598f25de6accdb44bdd3469ed098f5e09ad438ec2cf39a2456c385efe440aacb71dcead1e4a48488b11426ff39eabd53c01147fc1f32cb9",
+        "type": "PipEnv",
+        "pipEnvWorkspaceFolder": "/Users/jonas/mithjem/mithjem-fixer"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/Users/jonas/mithjem/mithjem-fixer": {
+      "architecture": 3,
+      "path": "/Users/jonas/.local/share/virtualenvs/mithjem-fixer-rDUjSiot/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.7-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.7-final"
+      },
+      "sysPrefix": "/Users/jonas/.local/share/virtualenvs/mithjem-fixer-rDUjSiot",
+      "fileHash": "a82af9617edbfe3fd598f25de6accdb44bdd3469ed098f5e09ad438ec2cf39a2456c385efe440aacb71dcead1e4a48488b11426ff39eabd53c01147fc1f32cb9",
+      "type": "PipEnv",
+      "pipEnvWorkspaceFolder": "/Users/jonas/mithjem/mithjem-fixer"
+    },
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/jonas/.local/share/virtualenvs/mithjem-fixer-rDUjSiot/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.7-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.7-final"
+        },
+        "sysPrefix": "/Users/jonas/.local/share/virtualenvs/mithjem-fixer-rDUjSiot",
+        "fileHash": "a82af9617edbfe3fd598f25de6accdb44bdd3469ed098f5e09ad438ec2cf39a2456c385efe440aacb71dcead1e4a48488b11426ff39eabd53c01147fc1f32cb9",
+        "type": "PipEnv",
+        "pipEnvWorkspaceFolder": "/Users/jonas/mithjem/mithjem-fixer"
+      }
+    ],
+    "SelectedPythonPath": "/Users/jonas/.local/share/virtualenvs/mithjem-fixer-rDUjSiot/bin/python"
+  },
+  "coc-python|/Users/jonas/bolighed/skuffesalg": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:487e020b5ea48f8878cf694194d4387a": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:487e020b5ea48f8878cf694194d4387a": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/jonas/bolighed/skuffesalg": {
+      "architecture": 3,
+      "path": "/usr/local/opt/python@3.8/bin/python3.8",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.6-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.6-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.8/3.8.6/Frameworks/Python.framework/Versions/3.8",
+      "fileHash": "7d2eb53984300a667932134ebbaaffa995face7c6cc2a5e509f1cd37e017f6954e2d0637c01a1280073fc90a6c70af9aa29c1aa668951e05ad31af7347bf0da5",
+      "type": "Unknown",
+      "displayName": "Python 3.8.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/jonas/mithjem/bolighed-import-service": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:f874b391c1897d9e7fb58aac8dbcd649": [
+      {
+        "architecture": 3,
+        "path": "/Users/jonas/.local/share/virtualenvs/bolighed-import-service-s51TuDUo/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/Users/jonas/.local/share/virtualenvs/bolighed-import-service-s51TuDUo",
+        "fileHash": "f466bf2daf49c2abcbb83a511008ac7fcaa7047b0ae51a945d91d9804b1e6b4abc5582224c652dd52e2affe8c83e95d1d818fc0cf1957f59c8ef841399ed33ba",
+        "type": "PipEnv",
+        "pipEnvWorkspaceFolder": "/Users/jonas/mithjem/bolighed-import-service"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:f874b391c1897d9e7fb58aac8dbcd649": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/jonas/mithjem/bolighed-import-service": {
+      "architecture": 3,
+      "path": "/Users/jonas/.local/share/virtualenvs/bolighed-import-service-s51TuDUo/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.6-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.6-final"
+      },
+      "sysPrefix": "/Users/jonas/.local/share/virtualenvs/bolighed-import-service-s51TuDUo",
+      "fileHash": "f466bf2daf49c2abcbb83a511008ac7fcaa7047b0ae51a945d91d9804b1e6b4abc5582224c652dd52e2affe8c83e95d1d818fc0cf1957f59c8ef841399ed33ba",
+      "type": "PipEnv",
+      "pipEnvWorkspaceFolder": "/Users/jonas/mithjem/bolighed-import-service"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/jonas/.local/share/virtualenvs/bolighed-import-service-s51TuDUo/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/Users/jonas/.local/share/virtualenvs/bolighed-import-service-s51TuDUo",
+        "fileHash": "f466bf2daf49c2abcbb83a511008ac7fcaa7047b0ae51a945d91d9804b1e6b4abc5582224c652dd52e2affe8c83e95d1d818fc0cf1957f59c8ef841399ed33ba",
+        "type": "PipEnv",
+        "pipEnvWorkspaceFolder": "/Users/jonas/mithjem/bolighed-import-service"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "SelectedPythonPath": "/Users/jonas/.local/share/virtualenvs/bolighed-import-service-s51TuDUo/bin/python"
+  },
+  "coc-python|/Users/jonas/mithjem/mithjem-fixer/infrastructure": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  },
+  "coc-python|/Users/jonas/mithjem/dashboard": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:70517e0bb90d828f3045cb2817aa6d10": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:70517e0bb90d828f3045cb2817aa6d10": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/jonas/mithjem/dashboard": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.0_1/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "43dbfb43a3eeb351d3107e7f5c677c1014619baa7789a978801f898c38b048d245f9e02ff37c458ad105235fb1d604d83f8eab321b0f01542d57e5f0bcb002bb",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.9.0 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d015300bfbe5539508c88c9a10c22ac0": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:d015300bfbe5539508c88c9a10c22ac0": [
+      {
+        "architecture": 3,
+        "path": "/Users/jonas/.local/share/virtualenvs/mithjem-fixer-rDUjSiot/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/Users/jonas/.local/share/virtualenvs/mithjem-fixer-rDUjSiot",
+        "fileHash": "a82af9617edbfe3fd598f25de6accdb44bdd3469ed098f5e09ad438ec2cf39a2456c385efe440aacb71dcead1e4a48488b11426ff39eabd53c01147fc1f32cb9",
+        "type": "PipEnv",
+        "pipEnvWorkspaceFolder": "/Users/jonas/mithjem/mithjem-fixer"
+      }
+    ],
+    "SelectedPythonPath": "/Users/jonas/.local/share/virtualenvs/mithjem-fixer-rDUjSiot/bin/python"
+  },
+  "coc-python|/Users/jonas/mithjem/mithjem-infra": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:5d9ff354462e2bc7503fa3b6ff8fbd9e": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:5d9ff354462e2bc7503fa3b6ff8fbd9e": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/jonas/mithjem/mithjem-infra": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.0_1/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "43dbfb43a3eeb351d3107e7f5c677c1014619baa7789a978801f898c38b048d245f9e02ff37c458ad105235fb1d604d83f8eab321b0f01542d57e5f0bcb002bb",
+      "type": "Unknown",
+      "displayName": "Python 3.9.0 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  },
+  "coc-python|/Users/jonas/mithjem/dashboard/apps/loans": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  },
+  "coc-python|/Users/jonas/notebooks": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  },
+  "coc-python|/Users/jonas/mithjem/dashboard-tester": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:2170c4f67776f29c2b4f00382508a2c8": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:2170c4f67776f29c2b4f00382508a2c8": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/jonas/mithjem/dashboard-tester": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_6/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "29da33e4b3d45ae43a506696210cc8443b110b482b887b803af13c91514d2297af6618f7d839dce9c4c2f6b5496e3f75013ae047a9961d04e6c9ff8907cb47fa",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.9.1 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/jonas": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  }
+}

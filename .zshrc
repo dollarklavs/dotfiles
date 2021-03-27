@@ -117,6 +117,7 @@ export EDITOR=/usr/local/bin/nvim
 export PATH="/usr/local/sbin:$PATH"
 
 export PATH="$HOME/.poetry/bin:$PATH"
+source $HOME/.zshenv
 bindkey -v
 
 alias k="kubectl"

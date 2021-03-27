@@ -1,3 +1,6 @@
 .viminfo
 .vim/
 .tmux/
+.oh-my-zsh/
+.zsh-syntax-highlighting/
+
